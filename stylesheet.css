@@ -1,0 +1,46 @@
+body{
+	background-image: url('./img/0b7e1e5ed102da62efd7f415f948194f.jpg');
+	background-color:rgba(255,0,0,0.5);
+	color:white;
+}
+/*titel*/
+.site_titel{
+	margin-top:22%;
+	text-align:center;	
+}
+
+
+/*subtitel*/
+.site_subtitel{
+	text-align:center;
+	margin: 2% 0 0;
+}
+
+
+/*sitebuttons*/
+.site_pagebutton{
+	margin: 4% 0 0;
+}
+.site_pagebutton div{	
+	padding: 0.2% 2%;
+}
+.site_pagebutton div a{
+	border: 1px solid white;
+    display: block;
+    text-align: center;
+}
+.site_pagebutton div a:hover{
+	border: 0;
+	opacity:0.8;
+}
+
+/*social media*/
+.site_social{
+	margin-top:15%;
+}
+.site_social div{
+	text-align:center;
+}
+.site_social div a i:hover{
+	color:black;
+}
